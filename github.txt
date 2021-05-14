@@ -1,0 +1,10 @@
+Как загрузить
+
+1. git init
+2. git add *
+3. git commit -m "Message"
+4. git remote add origin git@github.com:fominua/fominua.github.io.git
+5. git push origin master
+6. Вас спросит ваш username и password
+
+Как обновить?
