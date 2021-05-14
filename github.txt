@@ -8,3 +8,8 @@
 6. Вас спросит ваш username и password
 
 Как обновить?
+
+1. git add *
+2. git commit -m "Я поменял название"
+3. git push origin master
+4. Вас спросит ваш username и password
